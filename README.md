@@ -1,4 +1,4 @@
-[ReactJS] Search Youtube Videos and Save Your Favorites📝
+[React] Search Youtube Videos and Save Your Favorites📝
 ============================================================
 
 ## HOW TO INSTALL AND START THE APP
