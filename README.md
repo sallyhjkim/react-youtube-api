@@ -13,7 +13,11 @@ Start the app
 ```
 
 ## WHAT IS THE FEATURES?
-1. Search the keyword
-2. Use Youtube api 
-3. Router to navigate the page and to use base browser name
-4. Save favorite video item
+ReactJS search and save favorite by using Youtube API
+*acknowledge: This project is based on Udemy course 'Modern React with Redux [2019 Update]'
+-Added two features :
+1. Save favorite video item
+2. Tabs for navigating Main page and Favorite page
+3. Use Router to change custom basename
+4. Use Loader
+   
